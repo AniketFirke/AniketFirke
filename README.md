@@ -74,11 +74,11 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 
 ## Contact 📫 
 
-To get in touch with me, please send an email to <a href="mailto:firkeaniket621@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
-</a>. I'll do my best to respond promptly.
+To get in touch with me, please send an email to <a href="mailto:firkeaniket621@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a>. I'll do my best to respond promptly.
 
 ## Find Me on ✨LinkedIn✨
 
-You can find my LinkedIn profile here: [https://www.linkedin.com/in/aniket-firke-ab0405239/]. 
+You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
+ 
 
 Feel free to explore my repositories and contributions!
