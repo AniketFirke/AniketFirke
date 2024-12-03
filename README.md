@@ -22,7 +22,7 @@ the area, especially in software development and cloud technologies..
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c,php,python&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,php,python,java&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -44,7 +44,7 @@ the area, especially in software development and cloud technologies..
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,cloudflare&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,cloudflare,docker,gcp&theme=dark"></td>
 </tr>
 
 </table>
@@ -74,7 +74,8 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 
 ## Contact 📫 
 
-To get in touch with me, please send an email to [firkeaniket621@gmail.com](mailto:your-email-address@gmail.com). I'll do my best to respond promptly.
+To get in touch with me, please send an email to <a href="mailto:firkeaniket621@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
+</a>. I'll do my best to respond promptly.
 
 ## Find Me on ✨LinkedIn✨
 
