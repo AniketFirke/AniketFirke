@@ -14,9 +14,9 @@ the area, especially in software development and cloud technologies..
 [![wakatime](https://wakatime.com/badge/user/52d0f35e-93d3-4abb-872c-bc9dcf140d61.svg)](https://wakatime.com/@52d0f35e-93d3-4abb-872c-bc9dcf140d61)
 - Frontend Development
 - Backend Development
-- Artificial Intelligence
-- Data Structure and Algorithms: Java
-- Database Technologies
+- Full-Stack Development 
+- Software Development & Engineer 
+- Cloud Technologies 
 
   
 ## Languages, Tools and Technologies 🚀 
