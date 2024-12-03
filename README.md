@@ -44,7 +44,7 @@ the area, especially in software development and cloud technologies..
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,cloudflare,docker,gcp&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,linux,cloudflare,docker,gcp&theme=dark"></td>
 </tr>
 
 </table>
