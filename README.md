@@ -1,13 +1,15 @@
 
 
-<img src="" width="500">
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFNGJIeSoBMQg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707077631255?e=1738800000&v=beta&t=TRYpeOrbp44Dx2dTU-V-fw03UeBPKYKQpqqM31U_yVk" width="500">
 
 
 <hr>
 
 # Hey there! I'm <a href = "https://www.linkedin.com/in/aniket-firke-ab0405239/"> Mr.Aniket A Firke</a>. Welcome to my GitHub👋
 
-Final year CSE student.
+Hello! I am a dedicated student studying a B.Tech in Computer Science & Engineering at MIT, Chhatrapati Sambhajinagar. I 
+have a strong interest in development and am a motivated student who is constantly ready to delve into and grasp new ideas in 
+the area, especially in software development and cloud technologies..
 
 [![wakatime](https://wakatime.com/badge/user/52d0f35e-93d3-4abb-872c-bc9dcf140d61.svg)](https://wakatime.com/@52d0f35e-93d3-4abb-872c-bc9dcf140d61)
 - Frontend Development
@@ -61,7 +63,7 @@ Soft skills
 - Interpersonal skills
 - Teamwork
 - Communication
-
+- Tech Carrer Management
 
 ## Collaboration 🤝
 
