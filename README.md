@@ -22,7 +22,7 @@ the area, especially in software development and cloud technologies..
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=PHP,Python,C&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=Cpp,C,Java&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -30,7 +30,7 @@ the area, especially in software development and cloud technologies..
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html5,css,js,react,threejs" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,threejs" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
