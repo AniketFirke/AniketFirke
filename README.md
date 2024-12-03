@@ -10,7 +10,7 @@ Hello! I am a dedicated student studying a B.Tech in Computer Science & Engineer
 have a strong interest in development and am a motivated student who is constantly ready to delve into and grasp new ideas in 
 the area, especially in software development and cloud technologies..
 
-[![wakatime](https://wakatime.com/badge/user/52d0f35e-93d3-4abb-872c-bc9dcf140d61.svg)](https://wakatime.com/@52d0f35e-93d3-4abb-872c-bc9dcf140d61)
+
 - Frontend Development
 - Backend Development
 - Full-Stack Development 
@@ -22,7 +22,7 @@ the area, especially in software development and cloud technologies..
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=PHP.Python,C&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -30,7 +30,7 @@ the area, especially in software development and cloud technologies..
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,threejs" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html5,css,js,react,threejs" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
