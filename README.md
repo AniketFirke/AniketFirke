@@ -6,16 +6,14 @@
 
 # Hey there! I'm <a href = "https://www.linkedin.com/in/aniket-firke-ab0405239/"> Mr.Aniket A Firke</a>. Welcome to my GitHub👋
 
-Hello! I am a dedicated student studying a B.Tech in Computer Science & Engineering at MIT, Chhatrapati Sambhajinagar. I 
-have a strong interest in development and am a motivated student who is constantly ready to delve into and grasp new ideas in 
-the area, especially in software development and cloud technologies..
+I am a highly motivated and enthusiastic AWS Cloud Engineer with a strong understanding of cloud computing principles and AWS services. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud domain. I am to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development.
 
 
-- Frontend Development
-- Backend Development
-- Full-Stack Development 
-- Software Development & Engineer 
 - Cloud Technologies 
+- AWS Engineer
+- DevOps Engineer
+- System Developer
+- Web Development
 
   
 ## Languages, Tools and Technologies 🚀 
@@ -41,10 +39,13 @@ the area, especially in software development and cloud technologies..
 	<td><strong>Frameworks</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,sass,tailwind&theme=dark"></td>
 </tr>
-
+<tr>
+	<td><strong>Cloud Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,devops,docker,kubernetes,maven,gcp&theme=dark"></td>
+</tr>
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab,netlify,linux,cloudflare,docker,gcp&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=vscode,windows,git,github,gitlab,linux,redhat,figma&theme=dark"></td>
 </tr>
 
 </table>
@@ -79,6 +80,6 @@ To get in touch with me, please send an email to <a href="mailto:firkeaniket621@
 ## Find Me on ✨LinkedIn✨
 
 You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
- 
 
 Feel free to explore my repositories and contributions!
+
