@@ -41,7 +41,7 @@ I am a highly motivated and enthusiastic AWS Cloud Engineer with a strong unders
 </tr>
 <tr>
 	<td><strong>Cloud Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,devops,docker,kubernetes,maven,gcp&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,docker,kubernetes,maven,gcp&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Developer Tools</strong></td>
@@ -82,4 +82,5 @@ To get in touch with me, please send an email to <a href="mailto:firkeaniket621@
 You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
 
 Feel free to explore my repositories and contributions!
+
 
