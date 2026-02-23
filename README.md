@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cconsole.log(%22Hello%2C%20World%22)!&center=true&size=27)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif" />
+</picture>
+
 </div>
 
 <hr>
@@ -84,6 +89,7 @@ To get in touch with me, please send an email to <a href="mailto:firkeaniket621@
 You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
 
 Feel free to explore my repositories and contributions!
+
 
 
 
