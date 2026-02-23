@@ -24,13 +24,6 @@
 
 I am a highly motivated and enthusiastic AWS Cloud and DevOps Engineer with a strong understanding of cloud computing principles, AWS services, and DevOps practices. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud and DevOps domain. I aim to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development. 
 
-
-- Cloud Technologies 
-- AWS Engineer
-- DevOps Engineer
-- System Developer
-- Web Development
-
   
 ## Languages, Tools and Technologies 🚀 
 <table>
@@ -106,6 +99,7 @@ Feel free to explore my repositories and contributions!
 <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
 
 </div>
+
 
 
 
