@@ -13,7 +13,16 @@
 
 # Hey there! I'm <a href = "https://cinch-revamp-60906406.figma.site/"> Mr.Aniket A Firke</a>. Welcome to my GitHub👋
 
-I am a highly motivated and enthusiastic AWS Cloud Engineer with a strong understanding of cloud computing principles and AWS services. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud domain. I am to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development.
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
+</picture>
+
+<hr>
+
+I am a highly motivated and enthusiastic AWS Cloud and DevOps Engineer with a strong understanding of cloud computing principles, AWS services, and DevOps practices. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud and DevOps domain. I aim to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development. 
 
 
 - Cloud Technologies 
@@ -89,6 +98,14 @@ To get in touch with me, please send an email to <a href="mailto:firkeaniket621@
 You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
 
 Feel free to explore my repositories and contributions!
+
+<hr>
+
+<div align="center" >
+
+<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
+
+</div>
 
 
 
