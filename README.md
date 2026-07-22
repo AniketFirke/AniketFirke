@@ -14,10 +14,11 @@
 
 <hr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlirezaRg/AlirezaRg/main/intro-banner.svg" width="820" alt="Animated intro banner" />
+
+</div>
 
 <hr>
 
