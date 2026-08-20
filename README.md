@@ -1,123 +1,114 @@
 <div align="center">
 
-  <!-- 3D Modern Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:2563eb&height=260&section=header&text=Aniket%20Firke&fontSize=68&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Community%20Builder&descSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cconsole.log(%22Hello%2C%20World%22)!&center=true&size=27)](https://git.io/typing-svg)
 
-  <br/>
-
-  <!-- Modern Animated Typewriter Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Cloud+Infrastructure...;Automating+CI%2FCD+Pipelines...;Founder+%40+Developer+Club+MIT-A;Ex-Event+%26+Ops+Lead+%40+GDSC+MIT-A" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Quick Social Badges in Modern Glassmorphism Style -->
-  <p align="center">
-    <a href="https://linkedin.com/in/aniketfirke">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://twitter.com">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-    </a>
-  </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 
 </div>
 
-<hr />
+<hr>
 
-<!-- ABOUT ME SECTION -->
+# Hey there! I'm <a href = "https://cinch-revamp-60906406.figma.site/"> Mr.Aniket A Firke</a>. Welcome to my GitHub👋
+
+<hr>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlirezaRg/AlirezaRg/main/intro-banner.svg" width="820" alt="Animated intro banner" />
+
+</div>
+
+<hr>
+
+<p align="justify">
+I am a highly motivated and enthusiastic AWS Cloud and DevOps Engineer with a strong understanding of cloud computing principles, AWS services, and DevOps practices. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud and DevOps domain. I aim to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development. 
+</p>
+
+<hr>
+  
+## Languages, Tools and Technologies 🚀 
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
-      <p>
-        Hi there! I'm <b>Aniket Firke</b>, a passionate <b>Cloud & DevOps Engineer</b> focused on designing high-availability systems, automating deployments, and optimizing cloud-native infrastructure.
-      </p>
-      <ul>
-        <li>📍 <b>Origin:</b> Engaon, Taluka Bodwad, Dist. Jalgaon (425310)</li>
-        <li>🌐 <b>Community Leadership:</b> Founder of <b>Developer Club MIT-A</b></li>
-        <li>💡 <b>Past Leadership:</b> Ex-Event & Operational Lead at <b>GDSC MIT-A</b></li>
-        <li>🎯 <b>Current Focus:</b> Kubernetes Orchestration, Infrastructure as Code (IaC), and GitOps workflow design.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Modern 3D Floating Isometric Cloud Graphic -->
-      <img src="https://raw.githubusercontent.com/everettr/everettr/main/assets/cloud.gif" width="85%" alt="3D Cloud Animation" />
-    </td>
-  </tr>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,php,python,java&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,threejs" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,nextjs&theme=dark"></td>
+</tr>
+ 
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,sass,tailwind&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,docker,kubernetes,maven,gcp&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=vscode,windows,git,github,gitlab,linux,redhat,figma&theme=dark"></td>
+</tr>
+
 </table>
 
-<hr />
+<strong>
+Soft skills
+</strong>
 
-<!-- TECH STACK SECTION WITH MODERN 3D-STYLE BADGES -->
-<h2>🛠️ Tech Stack & Ecosystem</h2>
 
-<p align="center">
-  <b>Cloud & Infrastructure</b><br/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
 
-<p align="center">
-  <b>DevOps & Automation</b><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
 
-<p align="center">
-  <b>Monitoring & Languages</b><br/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+- Leadership
+- Public speaking
+- Problem solving
+- Interpersonal skills
+- Teamwork
+- Communication
+- Tech Carrer Management
 
-<hr />
+<hr>
 
-<!-- DYNAMIC 3D METRICS & GITHUB STATS -->
-<h2>📊 Dynamic GitHub Dashboard</h2>
+## Collaboration 🤝
 
-<div align="center">
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
 
-  <!-- 3D Isometric Contribution Grid -->
-  <img src="https://github-profile-3d-contrib.puzzle3d.workers.dev/ca212713/3dcontrib?username=AniketFirke" width="100%" alt="3D Contribution Graph" />
+### Star 🌟 some of my repos if you like them!
+<hr>
+</div>
 
-  <br/><br/>
+## Contact 📫 
 
-  <!-- Stats Cards in Dark Glass Theme -->
-  <a href="https://github.com/AniketFirke">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniketFirke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketFirke&layout=compact&theme=tokyonight&hide=html,css" />
-  </a>
+To get in touch with me, please send an email to <a href="mailto:firkeaniket621@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a>. I'll do my best to respond promptly.
 
-  <br/><br/>
+## Find Me on ✨LinkedIn✨
 
-  <!-- Streak Stats Card -->
-  <a href="https://github.com/AniketFirke">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketFirke&theme=tokyonight&hide_border=false" width="90%" alt="GitHub Streak" />
-  </a>
+You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
+
+Feel free to explore my repositories and contributions!
+
+<hr>
+
+<div align="center" >
+
+<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
 
 </div>
 
-<hr />
 
-<!-- FOOTER WITH SNAKE EATING CONTRIBUTIONS ANIMATION -->
-<h2>🐍 Activity Snake Graph</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AniketFirke/AniketFirke/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:000000&height=120&section=footer" width="100%" />
-</div>
+
+
+
+
