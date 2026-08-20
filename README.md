@@ -1,114 +1,36 @@
+<!-- HEADER BANNER WITH GRADIENT & TWINKLE ANIMATION -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cconsole.log(%22Hello%2C%20World%22)!&center=true&size=27)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,28,32,0&height=250&section=header&text=Aniket%20Firke&fontSize=65&fontColor=fff&animation=twinkling&desc=AWS%20Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=68&descAlign=50" width="100%" alt="Aniket Firke Header"/>
 </div>
 
-<hr>
-
-# Hey there! I'm <a href = "https://cinch-revamp-60906406.figma.site/"> Mr.Aniket A Firke</a>. Welcome to my GitHub👋
-
-<hr>
-
+<!-- DYNAMIC TYPING SUBTITLE -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/AlirezaRg/AlirezaRg/main/intro-banner.svg" width="820" alt="Animated intro banner" />
-
+  <a href="https://github.com/AniketFirke">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AWS+Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+(IaC)+Specialist;Ex-Operational+Lead+%40+GDSC;Founder+%40+Developer+Club+MIT-A" alt="Typing SVG Animation" />
+  </a>
 </div>
 
-<hr>
+<br/>
 
-<p align="justify">
-I am a highly motivated and enthusiastic AWS Cloud and DevOps Engineer with a strong understanding of cloud computing principles, AWS services, and DevOps practices. I am dedicated to delivering exceptional results while continuously enhancing my skills and technical expertise. With a solid work ethic, sharp attention to detail, and a passion for learning, I am excited to embark on my career in the AWS Cloud and DevOps domain. I aim to contribute my knowledge and energy to a forward-thinking organization that values innovation, professional growth, and continuous development. 
-</p>
-
-<hr>
-  
-## Languages, Tools and Technologies 🚀 
-<table>
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c,php,python,java&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,threejs" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,nextjs&theme=dark"></td>
-</tr>
- 
-<tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=postman,sass,tailwind&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cloud Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=aws,docker,kubernetes,maven,gcp&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=vscode,windows,git,github,gitlab,linux,redhat,figma&theme=dark"></td>
-</tr>
-
-</table>
-
-<strong>
-Soft skills
-</strong>
-
-
-
-
-- Leadership
-- Public speaking
-- Problem solving
-- Interpersonal skills
-- Teamwork
-- Communication
-- Tech Carrer Management
-
-<hr>
-
-## Collaboration 🤝
-
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
-
-### Star 🌟 some of my repos if you like them!
-<hr>
+<!-- 3D ISOMETRIC ANIMATED DEVOPS INFRASTRUCTURE GRAPHIC -->
+<div align="center">
+  <img src="https://my-hexo-blog-1258612182.cos.ap-guangzhou.myqcloud.com/isometric-devops-banner.gif" width="85%" alt="Isometric DevOps 3D Scene" />
 </div>
 
-## Contact 📫 
+<br/>
 
-To get in touch with me, please send an email to <a href="mailto:firkeaniket621@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a>. I'll do my best to respond promptly.
+---
 
-## Find Me on ✨LinkedIn✨
+### 🚀 About Me
 
-You can find my LinkedIn profile here:<a href="https://www.linkedin.com/in/aniket-firke-ab0405239/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>.
-
-Feel free to explore my repositories and contributions!
-
-<hr>
-
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
-
-</div>
-
-
-
-
-
-
-
-
+```yaml
+Aniket_Firke:
+  Role: AWS Cloud & DevOps Engineer
+  Focus_Areas:
+    - Infrastructure Automation (Terraform, Ansible)
+    - Containerization & Orchestration (Docker, Kubernetes)
+    - CI/CD Pipelines & Cloud Architecture
+  Leadership:
+    - Ex-Event & Operational Lead @ GDSC MIT-A
+    - Founder @ Developer Club MIT-A
+  Motto: "Automate everything, scale infinitely."
